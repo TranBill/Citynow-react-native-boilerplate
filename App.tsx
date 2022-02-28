@@ -9,6 +9,10 @@ export default function App() {
       <Text> Hello Loc</Text>
 
       <Text> Hellu Hung</Text>
+      
+      <Text> this is HUng</Text>
+      <Text> Hellu Hung</Text>
+      <Text> Hellu Hung</Text>
 
       
 
