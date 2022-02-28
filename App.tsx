@@ -10,7 +10,8 @@ export default function App() {
       <Text>lololo</Text>
       <Text> Hellu Hung</Text>
       <Text>Updateeee</Text>
-      <Text>TheNextUpdateeee</Text>
+      
+      <Text>Heluuuuuuuuuuuuuuuuuuuuuu</Text>
 
       
 
