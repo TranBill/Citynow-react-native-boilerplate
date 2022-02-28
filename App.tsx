@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text> Hello Longluu</Text>
       <Text> Hello Loc</Text>
+      <Text> Leader LongLuu</Text>
       <StatusBar style="auto" />
     </View>
   );
