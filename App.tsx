@@ -7,7 +7,11 @@ export default function App() {
     <View style={styles.container}>
       <Text> Hello Longluu</Text>
       <Text> Hello Loc</Text>
+
       <Text> Hellu Hung</Text>
+
+      
+
       <StatusBar style="auto" />
     </View>
   );
