@@ -7,6 +7,7 @@ export default function App() {
       <Text> Hello Longluu</Text>
       <Text> Hello Loc</Text>
       <Text>Hung Huu</Text>
+      <Text>dkmvlg</Text>
       <StatusBar style="auto" />
     </View>
   );
