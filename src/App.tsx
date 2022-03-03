@@ -1,3 +1,5 @@
+/* eslint-disable semi */
+/* eslint-disable quotes */
 /* eslint-disable no-use-before-define */
 /* eslint-disable react/react-in-jsx-scope */
 import { StatusBar } from 'expo-status-bar'
