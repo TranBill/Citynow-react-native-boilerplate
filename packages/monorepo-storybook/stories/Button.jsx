@@ -1,3 +1,5 @@
+/* eslint-disable comma-dangle */
+/* eslint-disable quotes */
 import React from 'react';
 import PropTypes from 'prop-types';
 import './button.css';
